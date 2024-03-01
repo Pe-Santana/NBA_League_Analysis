@@ -1,2 +1,2 @@
 # NBA_League_Analysis
-A studie Using PostgreSQL, Python and Power BI
+A study using PostgreSQL, Python and Power BI
